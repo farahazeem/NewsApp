@@ -1,0 +1,7 @@
+<mat-toolbar color="primary">
+  <button mat-icon-button class="example-icon">
+    <mat-icon (click)="toggleButton()" *ngIf="toggleMenuButton" class="mat-18 mt-2 mr-2">menu</mat-icon>
+    <mat-icon (click)="toggleButton()" *ngIf="!toggleMenuButton" class="mat-18">close</mat-icon>
+  </button>
+  <span>The News</span>
+</mat-toolbar>
