@@ -21,3 +21,5 @@ Things it demonstrate:
 -> Angular Material's Toolbar and SidNavbar
 
 -> Responsive layout using TailwindCSS
+
+![image](https://user-images.githubusercontent.com/28639312/213339197-065c8e2c-74b6-4931-8462-01db0382620d.png)
